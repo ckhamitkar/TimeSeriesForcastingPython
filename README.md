@@ -1,5 +1,4 @@
-Project Description
-###################
+Project Description:
 
 Prophet is a powerful time series forecasting library for Python developed by Facebook's Core Data Science team. It is designed to handle time series datasets with multiple seasonalities, changing trends, and holiday effects. Prophet is built on top of a decomposable time series model with three main components—trend, seasonality, and holidays.
 
